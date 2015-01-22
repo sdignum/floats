@@ -26,6 +26,5 @@
 
 .box-4 {
     background: #FF4A00;
-    clear: left;
-    float: left;
+    float: right;
 }
