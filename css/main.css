@@ -20,11 +20,12 @@
 
 .box-3 {
     background: #0021A5;
-    clear: right;
-    float: right;
+    clear: left;
+    float: left;
 }
 
 .box-4 {
     background: #FF4A00;
+    clear: right;
     float: right;
 }
