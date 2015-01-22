@@ -1,4 +1,8 @@
+h1 {
+	float: left;
+}
+
 img {
     width: 400px;
-    float: left;
+    float: right;
 }
