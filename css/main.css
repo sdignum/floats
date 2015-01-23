@@ -6,3 +6,7 @@ img {
     width: 400px;
     float: left;
 }
+
+p:nth-of-type(3n) {
+	clear:both;
+}
